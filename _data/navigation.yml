@@ -1,9 +1,7 @@
 # main links
 main:
   - title: "Blog"
-    url: "/blog/"
-  - title: "Proyectos"
-    url: "/proyectos/"
+    url: "/"
   - title: "Acerca de"
     url: "/acerca-de/"
   - title: "CV"
