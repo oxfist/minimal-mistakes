@@ -299,14 +299,14 @@ consumidor**.
 Yo no creo en el voto con la billetera. Estas empresas tienen un poder de
 injerencia en el mercado tal que son capaces de instalar la cultura de las
 microtransacciones a pesar de cualquier resistencia, y es precisamente eso lo
-que han hecho. Bien lejanos quedaron los días de The Conquerors. Ahora lo que
-importa es mantenerte jugando de forma constante y casi engatusado, pagando por
-contenido que desarrolladores están obligados a convencerte que es importante y
-útil, y así aumentar las ganancias digitales antes de que termine el año
-fiscal. **¿Y la entretención?, bueno, los videojuegos son muy caros de
-producir, hay muchos millones que gastar en _marketing_ y hay que coordinar a
-mucha gente que trabaje horas extra por la misma remuneración. Claramente hay
-cosas más importantes que la entretención**.
+que han hecho. Bien lejanos quedaron los días de Age of Empires II: The
+Conquerors. Ahora lo que importa es mantenerte jugando de forma constante y
+casi engatusado, pagando por contenido que desarrolladores están obligados a
+convencerte que es importante y útil, y así aumentar las ganancias digitales
+antes de que termine el año fiscal. **¿Y la entretención?, bueno, los
+videojuegos son muy caros de producir, hay muchos millones que gastar en
+_marketing_ y hay que coordinar a mucha gente que trabaje horas extra por la
+misma remuneración. Claramente hay cosas más importantes que la entretención**.
 
 La industria de los videojuegos es muy joven; estamos aún en la adolescencia.
 Nos cuesta ser críticos, **tenemos muy enraizada la cultura del consumo y
