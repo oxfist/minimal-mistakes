@@ -39,7 +39,7 @@ al juego base, lo que podríamos decir son las “expansiones modernas”, con l
 salvedad que el DLC tiene, en general, mucho menos contenido que las
 expansiones de antaño. No fue hasta el presente año 2017 que las _loot boxes_
 se pusieron en el centro de atención de toda la industria, puesto que pasaron
-de estar principalmente en juegos _free-to-play_, con contenido principalmente
+de estar principalmente en juegos _free-to-play_, con contenido mayormente
 estético, a estar presentes en gigantescos juegos AAA, donde además ahora
 pueden llegar a otorgar ventaja a quienes reciben sus recompensas.
 
@@ -47,7 +47,7 @@ En mi opinión la única finalidad de las _loot boxes_ es **que el jugador gaste
 más dinero después de comprar el juego**. Sí, no tienen otro propósito más que
 “monetizar” un videojuego (como se conoce en la industria de los videojuegos y
 del _software_ en general). Creo muy necesario que consideremos la existencia
-dichas cajas virtuales desde esta realidad, pues todo lo que rodea esta
+de dichas cajas virtuales desde esta realidad, pues todo lo que rodea esta
 funcionalidad está diseñado para llevarnos a meterle dinero al juego,
 maximizando todo lo posible el monto que invertimos en el tiempo.
 Desarrolladores han hablado abiertamente del diseño visual y de sonido
@@ -73,8 +73,8 @@ de romper esa inmersión con pagos extras. No hay que ser ingenuos, estas
 prácticas están consolidadas en el mercado de las aplicaciones móviles, donde
 las microtransacciones son grito y plata. Es muy común encontrar en la Google
 Play Store juegos que tienen funcionalidades de monetización rayanas en la
-estafa. Claro, no son una estafa per se, pero tienen por objetivo hacer caer a
-la gente que no se resiste mucho a pagar con una tarjeta de crédito.
+estafa. Claro, no son una estafa _per se_, pero tienen por objetivo hacer caer a
+la gente que no ofrece mucha resistencia a pagar con una tarjeta de crédito.
 
 Las industria de los videojuegos observa cómo con tan poco esfuerzo el mercado
 móvil genera tantas cantidades de dinero; ven cómo la gente entra en este ciclo
