@@ -2,7 +2,7 @@
 main:
   - title: "Blog"
     url: "/"
-  - title: "Acerca de"
-    url: "/acerca-de/"
-  - title: "CV"
-    url: "/cv.pdf"
+# - title: "Acerca de"
+#   url: "/acerca-de/"
+# - title: "CV"
+#   url: "/cv.pdf"
