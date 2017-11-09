@@ -77,14 +77,14 @@ estafa. Claro, no son una estafa _per se_, pero tienen por objetivo hacer caer a
 la gente que no ofrece mucha resistencia a pagar con una tarjeta de crédito.
 
 Las industria de los videojuegos observa cómo con tan poco esfuerzo el mercado
-móvil genera tantas cantidades de dinero; ven cómo la gente entra en este ciclo
-de consumo, y por supuesto que quieren sacar una tajada. Previo al lanzamiento
-de la PS4 y la Xbox One había preocupación de parte de Sony, Microsoft y los
-_publishers_, de que las consolas no iban a vender bien debido al exponencial
-crecimiento del mercado móvil, que amenazaba con quitarles terreno. ¿Qué pasó?
-Ese mercado móvil donde la monetización está al centro, debido a la cantidad de
-dinero que mueve, fue **copiado y adaptado al mercado de los videojuegos
-“tradicionales”**.
+móvil genera tan grandes cantidades de dinero; ven cómo la gente entra en este
+ciclo de consumo, y por supuesto que quieren sacar una tajada. Previo al
+lanzamiento de la PS4 y la Xbox One había preocupación de parte de Sony,
+Microsoft y los _publishers_, de que las consolas no iban a vender bien debido
+al exponencial crecimiento del mercado móvil, que amenazaba con quitarles
+terreno. ¿Qué pasó?  Ese mercado móvil donde la monetización está al centro,
+debido a la cantidad de dinero que mueve, fue **copiado y adaptado al mercado
+de los videojuegos “tradicionales”**.
 
 El objetivo de las _loot boxes_, entonces, es tan perverso como suena: **sacar
 a toda costa dinero del consumidor**. Por lo tanto se recurre a la creatividad
@@ -309,12 +309,12 @@ mucha gente que trabaje horas extra por la misma remuneración. Claramente hay
 cosas más importantes que la entretención**.
 
 La industria de los videojuegos es muy joven; estamos aún en la adolescencia.
-Nos cuesta ser críticos, **tenemos muy enraizada la cultura del consumo y muchas
-veces somos leales de forma poco racional a empresas que sólo nos ven como un
-número en una hoja de cálculo**. Estas lógicas toman el impulso artístico de los
-desarrolladores y lo coartan en la lógica del mercado, y eso resulta en
-productos cuyo impacto es reducido para quienes disfrutamos de los videojuegos
-con pasión.
+Nos cuesta ser críticos, **tenemos muy enraizada la cultura del consumo y
+muchas veces somos leales de forma poco racional a empresas que sólo nos ven
+como un número en una hoja de cálculo**. Estas lógicas toman el impulso
+artístico de los desarrolladores y lo coartan en la lógica del mercado, y eso
+resulta en productos cuyo impacto es reducido para quienes disfrutamos de los
+videojuegos con pasión.
 
 ¿Hay solución? No estoy seguro de eso, todo esto va a seguir ocurriendo lo
 queramos o no. Lo que sí sabemos es que a las grandes corporaciones no les
