@@ -34,7 +34,7 @@ más común y fea.
 
 Hoy en día es una práctica muy común que videojuegos de gran popularidad, con
 propiedad intelectual valorada en millones de dólares, se publiquen con ofertas
-tales como el llamado _season pass_, que te aseguran, por un precio adicional
+tales como el llamado _season pass_, que te asegura, por un precio adicional
 al juego base, lo que podríamos decir son las “expansiones modernas”, con la
 salvedad que el DLC tiene, en general, mucho menos contenido que las
 expansiones de antaño. No fue hasta el presente año 2017 que las _loot boxes_
@@ -117,7 +117,7 @@ energías y presupuestos para “ajustarse a las condiciones cambiantes del
 mercado”. Esto ha significado, en la práctica, cerrar estudios y cancelar
 proyectos que no se consideran capaces de cumplir las expectativas que los
 nuevos modelos de negocio presentan. Los juegos con gran contenido _single
-player_, por lo tanto, empiezan a perder prioridad frente a al _multiplayer_,
+player_, por lo tanto, empiezan a perder prioridad frente al _multiplayer_,
 donde la progresión del jugador pueda involucrar pagos, incluso si eso sólo
 cambia el color de una armadura o un rifle.
 
@@ -207,10 +207,10 @@ raro, pero además la ESRB convenientemente aloja en una definición “de
 diccionario” una problemática que podría resultar en serios problemas para
 vender sus juegos en el retail. Si un videojuego tiene el descriptor de
 contenido “Real Gambling”, que indica que contiene juegos de azar que
-involucren dinero real, automáticamente recibe clasificación M (de _Mature_,
+involucren dinero real, automáticamente recibe clasificación AO (_Adults Only_,
 sólo adultos). Tomemos el caso de FIFA 18, con clasificación E (_Everyone_,
 para todo público).  **Si se sancionara que las _loot boxes_ sí corresponden a
-juegos de azar automáticamente la clasificación subiría a M, y como las tiendas
+juegos de azar automáticamente la clasificación subiría a AO, y como las tiendas
 minoristas no venden juegos sólo para adultos, FIFA 18 no estaría presente en
 ninguna vitrina**. Es interesante que la misma organización que determina la
 clasificación de los videojuegos represente a las grandes empresas que están
