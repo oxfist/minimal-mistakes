@@ -23,6 +23,7 @@ contenido descargable** (DLC, por _Downloadable Content_) o en cajas virtuales,
 también conocidas como _loot boxes_.
 
 ![Diablo II: Lord of Destruction]({{ site.url }}{{ site.baseurl }}/assets/images/diabloiilod.jpg){: .align-center }
+<figcaption>Diablo II: Lord of Destuction.</figcaption>
 
 Pero, ¿qué son las _loot boxes_? Dicho en pocas palabras son como sobres de los
 juegos de cartas intercambiables (Pokémon, Magic The Gathering, Yu-Gi-Oh!),
@@ -100,6 +101,7 @@ de funcionalidades “esenciales” de forma gratuita, pero además ofrece otras
 avanzadas o “deseables” sólo mediante un pago.
 
 ![Máquinas Gashapon]({{ site.url }}{{ site.baseurl }}/assets/images/gashapon.jpg){: .align-center }
+<figcaption>Máquinas “Gashapon”. Han servido de inspiración para cientos de videojuegos móviles.</figcaption>
 
 Ahora bien, ¿qué tiene de malo que las empresas quieran aumentar sus ganancias
 obteniendo más dinero del consumidor?, ¿no es verdad que esta industria se
@@ -145,6 +147,7 @@ digitales en la tienda de PSN o por Steam. Desde ese punto de vista no es tan
 alocado asumir que es muy probable que vayas a pagar.
 
 ![Microtransacciones en Middle-earth: Shadow of War]({{ site.url }}{{ site.baseurl }}/assets/images/merchant.jpg){: .align-center }
+<figcaption>Microtransacciones en Middle-earth: Shadow of War.</figcaption>
 
 Lamentablemente **los videojuegos, principalmente los AAA, están siendo
 destruidos debido la aplicación de estos modelos de monetización**. ¿Cómo no?
@@ -272,6 +275,7 @@ más compensación que los desarrolladores; con ese argumento no hacen más que
 reconocer que las condiciones de los desarrolladores son en realidad injustas.
 
 ![Huelga de SAG-AFTRA]({{ site.url }}{{ site.baseurl }}/assets/images/strike.jpg){: .align-center }
+<figcaption>Actores de voz protestando contra Electronic Arts.</figcaption>
 
 Ahora volvamos a centrarnos en las _loot boxes_. Claramente la tendencia de
 éstas se ha establecido luego de mucho iterar en el mercado. Actualmente está
@@ -303,7 +307,7 @@ que han hecho. Bien lejanos quedaron los días de Age of Empires II: The
 Conquerors. Ahora lo que importa es mantenerte jugando de forma constante y
 casi engatusado, pagando por contenido que desarrolladores están obligados a
 convencerte que es importante y útil, y así aumentar las ganancias digitales
-antes de que termine el año fiscal. **¿Y la entretención?, bueno, los
+antes de que termine el año fiscal. **¿Y la entretención? Bueno, los
 videojuegos son muy caros de producir, hay muchos millones que gastar en
 _marketing_ y hay que coordinar a mucha gente que trabaje horas extra por la
 misma remuneración. Claramente hay cosas más importantes que la entretención**.
@@ -329,3 +333,51 @@ colectivos impulsados por el afán artístico de entregar una experiencia
 interactiva que sea entretenida, y si no somos capaces de respetarlos en su
 complejidad, entonces quizás sí merecemos las microtransacciones que tanto
 odiamos.
+
+#### Referencias
+1. Alexandra H. (2017, Octubre 13). Loot Boxes Are Designed To Exploit Us.
+_Kotaku_. Consultado en <https://kotaku.com/loot-boxes-are-designed-to-exploit-us-1819457592>
+2. Bain, J. [TotalBiscuit, The Cynical Brit]. (2017, Octubre 8). _I will now
+talk about Lootboxes and Gambling for just over 40 minutes_ [Archivo de video].
+Recuperado desde <https://www.youtube.com/watch?v=YMDGPSWWA18>
+3. Batchelor, J. (2017, Octubre 18). Loot boxes: Future of AAA or a monetisation
+misfire? _GamesIndustry.biz_. Consultado en <http://www.gamesindustry.biz/articles/2017-10-18-loot-boxes-combat-rising-development-and-marketing-costs/>
+4. Batchelor, J. (2017, Octubre 25). NPD: Loot box controversy having no impact
+on game sales. _GamesIndustry.biz_. Consultado en <http://www.gamesindustry.biz/articles/2017-10-25-npd-loot-box-controversy-having-no-impact-on-sales-potential/>
+5. Brightman, J. (2017, Octubre 11). Rising game dev costs put squeeze on
+mid-tier studios. _GamesIndustry.biz_. Consultado en <http://www.gamesindustry.biz/articles/2017-10-10-rising-game-dev-costs-put-squeeze-on-mid-tier-studios/>
+6. Chalk, A. (2017, Octubre 13). European game rating body agrees with ESRB:
+Loot boxes aren't gambling. _PC Gamer_. Consultado en <https://www.pcgamer.com/european-game-rating-body-agrees-with-esrb-loot-boxes-arent-gambling/>
+7. DaSilva, A. (2016) _2016 Top Markets Report Media And Entertainment. A Market
+Assessment Tool for U.S. Exporters_. Recuperado desde <https://www.trade.gov/topmarkets/pdf/Media_and_Entertainment_Top_Markets_Report.pdf>
+8. D'Anastasio, C. (2017, Marzo 20). Why Opening Loot Boxes Feels Like
+Christmas, According To Game Devs. _Kotaku_. Consultado en <https://kotaku.com/why-opening-loot-boxes-feels-like-christmas-according-1793446800>
+9. Electronic Arts. (2017, Octubre 31). How We've Updated Crates and Progression
+STAR WARS Battlefront II. Consultado en <https://www.ea.com/en-gb/games/starwars/battlefront/battlefront-2/news/progression-oct-2017>
+10. Entertainment Software Association. (2017, Noviembre 2). Entertainment
+Software Association's Statement on Congressional Tax Reform Proposal.
+Consultado en <http://www.theesa.com/article/entertainment-software-associations-statement-congressional-tax-reform-proposal/>
+11. Golshan, T. (2017, Noviembre 2). “I don't believe it”: Republicans are
+unfazed that corporate tax cuts poll really badly. _VOX_. Consultado en <https://www.vox.com/policy-and-politics/2017/11/2/16593620/republicans-unfazed-corporate-tax-cut-polls/>
+12. Kain, E. (2017, Octubre 12). The ESRB Is Wrong About Loot Boxes And
+Gambling. _Forbes_. Consultado en <https://www.forbes.com/sites/erikkain/2017/10/12/the-esrb-is-wrong-about-loot-boxes-and-gambling/>
+13. Maiberg, E. (2017, Febrero 22). The Video Game Industry Is Afraid Of Unions.
+_Motherboard_. Consultado en <https://motherboard.vice.com/en_us/article/nz9e58/walk-the-line>
+14. Makuch, E. (2013, Mayo 7). FIFA 13 sales hit 14.5 million, SimCity up to 1.6
+million. _GameSpot_. Consultado en <https://www.gamespot.com/articles/fifa-13-sales-hit-145-million-simcity-up-to-16-million/1100-6408046/>
+15. Makuch, E. (2017, Octubre 17). Dead Space 2 Dev Says Game Cost $60M To Make
+And Sold Millions, But Failed Commercially. _GamesSpot_. Consultado en <https://www.gamespot.com/articles/dead-space-2-dev-says-game-cost-60m-to-make-and-so/1100-6454150/>
+16. Schreier, J. (2017, Octubre 11). ESRB Says It Doesn't See 'Loot Boxes' As
+Gambling. _Kotaku_. Consultado en <https://kotaku.com/esrb-says-it-doesnt-see-loot-boxes-as-gambling-1819363091>
+17. Shreier, J. (2017, Octubre 25). Video Games Are Destroying the People Who
+Make Them. _The New York Times_. Consultado en <https://www.nytimes.com/2017/10/25/opinion/work-culture-video-games-crunch.html>
+18. Sterling, J. [Jim Sterling]. (2017, Octubre 9). _The Sixty Dollar Myth (The
+Jimquisition)_ [Archivo de video]. Recuperado desde <https://www.youtube.com/watch?v=pHSso2vufPM>
+19. Sterling, J. [Jim Sterling]. (2017, Octubre 23). _Turning Players Into
+Payers (The Jimquisition)_ [Archivo de video]. Recuperado desde <https://www.youtube.com/watch?v=TQsc14gDPbk>
+20. Taylor, H. (2017, Octubre 31). Profits up at Konami thanks to strong
+performance in mobile market. _GamesIndustry.biz_. Consultado en <http://www.gamesindustry.biz/articles/2017-10-31-profits-up-at-konami-thanks-to-strong-performance-in-mobile-market>
+21. Wiltshire, A. (2017, Septiembre 28). Behind the addictive psychology and
+seductive art of loot boxes. _PC Gamer_. Consultado en <https://www.pcgamer.com/behind-the-addictive-psychology-and-seductive-art-of-loot-boxes/>
+22. Yin-Poole, W. (2017, Octubre 23). When it comes to FIFA 18, you can most
+definitely cash out. _Eurogamer.net_. Consultado en <http://www.eurogamer.net/articles/2017-10-23-when-it-comes-to-fifa-18-you-can-most-definitely-cash-out>
