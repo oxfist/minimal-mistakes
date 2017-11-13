@@ -23,10 +23,10 @@ contenido descargable** (DLC, por _Downloadable Content_) o en cajas virtuales,
 también conocidas como _loot boxes_.
 
 ![Diablo II: Lord of Destruction]({{ site.url }}{{ site.baseurl }}/assets/images/diabloiilod.jpg){: .align-center }
-<figcaption>Diablo II: Lord of Destuction.</figcaption>
+<figcaption>Diablo II: Lord of Destruction.</figcaption>
 
 Pero, ¿qué son las _loot boxes_? Dicho en pocas palabras son como sobres de los
-juegos de cartas intercambiables (Pokémon, Magic The Gathering, Yu-Gi-Oh!),
+juegos de cartas intercambiables (Pokémon, Magic: The Gathering, Yu-Gi-Oh!),
 pero digitales. Se pueden obtener dentro del videojuego mediante una
 transacción de dinero real y contienen “recompensas” para el jugador. Estas
 recompensas son aleatorias y suelen tener asociado niveles de rareza. Con una
@@ -83,9 +83,9 @@ ciclo de consumo, y por supuesto que quieren sacar una tajada. Previo al
 lanzamiento de la PS4 y la Xbox One había preocupación de parte de Sony,
 Microsoft y los _publishers_, de que las consolas no iban a vender bien debido
 al exponencial crecimiento del mercado móvil, que amenazaba con quitarles
-terreno. ¿Qué pasó?  Ese mercado móvil donde la monetización está al centro,
-debido a la cantidad de dinero que mueve, fue **copiado y adaptado al mercado
-de los videojuegos “tradicionales”**.
+terreno. ¿Qué pasó? Ese mercado móvil donde la monetización está al centro,
+debido a la cantidad de dinero que mueve, terminó siendo **copiado y adaptado al
+mercado de los videojuegos “tradicionales”**.
 
 El objetivo de las _loot boxes_, entonces, es tan perverso como suena: **sacar
 a toda costa dinero del consumidor**. Por lo tanto se recurre a la creatividad
@@ -96,12 +96,12 @@ llegando al punto de incorporar el factor psicológico en la aleatoriedad de las
 recompensas por parte de los desarrolladores. El nivel de elaboración habla por
 sí solo; quieren asegurarse de que los jugadores enganchen en el pago. Al mismo
 tiempo esto no es extraño, pues en la industria del _software_ existen modelos
-similares hace bastante tiempo, ej. el _freemium_, donde se entrega una serie
-de funcionalidades “esenciales” de forma gratuita, pero además ofrece otras más
-avanzadas o “deseables” sólo mediante un pago.
+similares hace bastante tiempo, ej. el modelo _freemium_, donde se entrega una
+serie de funcionalidades “esenciales” de forma gratuita, pero además se ofrece
+otras más avanzadas o “deseables” mediante un pago o suscripción.
 
 ![Máquinas Gashapon]({{ site.url }}{{ site.baseurl }}/assets/images/gashapon.jpg){: .align-center }
-<figcaption>Máquinas “Gashapon”. Han servido de inspiración para cientos de videojuegos móviles.</figcaption>
+<figcaption>Las máquinas “Gashapon” han servido de inspiración para cientos de videojuegos móviles.</figcaption>
 
 Ahora bien, ¿qué tiene de malo que las empresas quieran aumentar sus ganancias
 obteniendo más dinero del consumidor?, ¿no es verdad que esta industria se
@@ -126,9 +126,9 @@ cambia el color de una armadura o un rifle.
 Es en la esfera de juegos AAA donde esto ha estado ocurriendo con más fuerza
 recientemente, con _publishers_ como Activision Blizzard o EA, cuyos juegos
 tienen gráficos cada vez más realistas y las campañas de _marketing_ son cada
-vez más ambiciosas, como los $60 millones para el _marketing_ de Dead Space 2 o
-el _trailer_ _live-action_ de Destiny 2. No obstante, los juegos parecieran
-estar perdiendo contenido de forma progresiva.
+vez más ambiciosas, como los $60 millones gastados en el _marketing_ de Dead
+Space 2 o el _trailer_ _live-action_ filmado para Destiny 2. Sin embargo, los
+juegos parecieran estar perdiendo contenido de forma progresiva.
 
 Middle-earth: Shadow of War es una interesante iteración de este mismo
 concepto, donde las cajas que se pueden comprar apuntan exclusivamente a la
@@ -182,7 +182,7 @@ sobre los $60 si quieres la “experiencia completa”**.
 La industria de los videojuegos, similar a la industria de la tecnología o el
 _software_, está **predominantemente conformada por consumidores despolitizados
 que asumen exactamente el mismo discurso de estas empresas que tienen billones
-y billones de dólares de ganancias**. En el 2013, sólo en EEUU, el 51% de la
+y billones de dólares de ganancias**. En el 2013, sólo en EE. UU., el 51% de la
 población poseía una consola. Los videojuegos son la industria de
 entretenimiento con el crecimiento más rápido en todo el mundo, sólo superada
 por la publicidad. **No ha habido antes en la historia un momento más lucrativo
@@ -193,15 +193,15 @@ EA, la misma empresa que agregó _loot boxes_ “sociales” a Call of Duty: WWI
 año fiscal 2013 registró $3,79 billones en ganancias. Sí, billones. Para EA el
 modo Ultimate Team de FIFA significa $800 millones de ganancias al año. **Estas
 compañías AAA perciben tienen ganancias cada vez mayores en esta industria de
-$100 billones**, y son las mismas que, **representadas por la ESRB aplauden los
-recortes tributarios a las grandes empresas propuestos por el Partido
-Republicano estadounidense**, que reducirían los impuestos de 35% a 20%. Por si
-fuera poco, la misma ESRB rehúye de la controversia con las _loot boxes_,
-haciendo una distinción academicista entre éstas y los juegos de azar, sin
-hacerse cargo de cómo se apela a exactamente los mismos mecanismos
-psicológicos, o cómo se genera todo un mercado negro en torno a las mismas,
-como el caso de CS:GO Lotto o las ventas de jugadores en FIFA, conocidamente
-propensas a estafas.
+$100 billones**, y son las mismas que, **representadas por la Entertainment
+Software Association (ESA) aplauden los recortes tributarios a las grandes
+empresas propuestos por el Partido Republicano estadounidense**, que buscan
+reducir los impuestos de 35% a 20%. Por si fuera poco, la misma ESRB (organismo
+establecido por la ESA) rehúye de la controversia con las _loot boxes_, haciendo
+una distinción academicista entre éstas y los juegos de azar, sin hacerse cargo
+de cómo se apela a exactamente los mismos mecanismos psicológicos, o cómo se
+genera todo un mercado negro en torno a las mismas, como el caso de CS:GO Lotto
+o las ventas de jugadores en FIFA, conocidamente propensas a estafas.
 
 **Yo veo una clara falta de ética al momento de desarrollar estas mecánicas en
 los videojuegos**. La industria del _software_ no se hace cargo de las
@@ -261,9 +261,9 @@ de re-lanzamientos con DLCs, remasterizaciones y demases.
 
 No deja de llamarme la atención que esta industria se rehúse a pagar
 _royalties_, aunque sea en una proporción mínima y acotada, a los actores cuyo
-trabajo suele reutilizarse muchísimas veces. En EEUU el gremio de actores está
-mucho más adelantado en términos sindicales (seguramente por la antigüedad del
-gremio y la cantidad de dinero que mueve Hollywood) que el de los
+trabajo suele reutilizarse muchísimas veces. En EE. UU. el gremio de actores
+está mucho más adelantado en términos sindicales (seguramente por la antigüedad
+del gremio y la cantidad de dinero que mueve Hollywood) que el de los
 desarrolladores de videojuegos, que no tienen ningún sindicato que los aglutine
 y opere para protegerlos. Esta situación es la que todas estas empresas quieren
 perpetuar.  **Les interesa sobremanera que los programadores, artistas o
@@ -277,12 +277,12 @@ reconocer que las condiciones de los desarrolladores son en realidad injustas.
 ![Huelga de SAG-AFTRA]({{ site.url }}{{ site.baseurl }}/assets/images/strike.jpg){: .align-center }
 <figcaption>Actores de voz protestando contra Electronic Arts.</figcaption>
 
-Ahora volvamos a centrarnos en las _loot boxes_. Claramente la tendencia de
+Volvamos ahora a centrarnos en las _loot boxes_. Claramente la tendencia de
 éstas se ha establecido luego de mucho iterar en el mercado. Actualmente está
 en un punto donde creo que prácticamente no importa el impacto de relaciones
-públicas que tengan estas mecánicas, como pasó con Star Wars: Battlefront II.
+públicas que tengan estas mecánicas. Tal es el caso de Star Wars: Battlefront II.
 Luego de las negativas reacciones que produjeron las mecánicas de las que nadie
-sabía y se pudieron observar en la beta, EA hace control de daños disminuyendo
+sabía y se pudieron observar en la _beta_, EA hace control de daños disminuyendo
 el nivel de “ranciedad”. Corrigen un poco y listo; de todos modos se venderán
 millones de copias.
 
@@ -334,7 +334,7 @@ interactiva que sea entretenida, y si no somos capaces de respetarlos en su
 complejidad, entonces quizás sí merecemos las microtransacciones que tanto
 odiamos.
 
-#### Referencias
+### Referencias
 1. Alexandra H. (2017, Octubre 13). Loot Boxes Are Designed To Exploit Us.
 _Kotaku_. Consultado en <https://kotaku.com/loot-boxes-are-designed-to-exploit-us-1819457592>
 2. Bain, J. [TotalBiscuit, The Cynical Brit]. (2017, Octubre 8). _I will now
