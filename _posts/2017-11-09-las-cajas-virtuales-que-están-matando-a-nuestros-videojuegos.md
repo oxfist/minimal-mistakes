@@ -192,16 +192,17 @@ a ser tan ubicuos como los computadores.
 EA, la misma empresa que agregó _loot boxes_ “sociales” a Call of Duty: WWII el
 año fiscal 2013 registró $3,79 billones en ganancias. Sí, billones. Para EA el
 modo Ultimate Team de FIFA significa $800 millones de ganancias al año. **Estas
-compañías AAA perciben tienen ganancias cada vez mayores en esta industria de
-$100 billones**, y son las mismas que, **representadas por la Entertainment
-Software Association (ESA) aplauden los recortes tributarios a las grandes
-empresas propuestos por el Partido Republicano estadounidense**, que buscan
-reducir los impuestos de 35% a 20%. Por si fuera poco, la misma ESRB (organismo
-establecido por la ESA) rehúye de la controversia con las _loot boxes_, haciendo
-una distinción academicista entre éstas y los juegos de azar, sin hacerse cargo
-de cómo se apela a exactamente los mismos mecanismos psicológicos, o cómo se
-genera todo un mercado negro en torno a las mismas, como el caso de CS:GO Lotto
-o las ventas de jugadores en FIFA, conocidamente propensas a estafas.
+compañías AAA tienen ganancias cada vez mayores en esta industria de $100
+billones**, y son las mismas que, **representadas por la Entertainment Software
+Association (ESA) aplauden los recortes tributarios a las grandes empresas
+propuestos por el Partido Republicano estadounidense**, que buscan reducir los
+impuestos que éstas pagan de 35% a 20%. Por si fuera poco, la misma ESRB
+(organismo establecido por la ESA) rehúye de la controversia con las _loot
+boxes_, haciendo una distinción academicista entre éstas y los juegos de azar,
+sin hacerse cargo de cómo se apela a exactamente los mismos mecanismos
+psicológicos, o cómo se genera todo un mercado negro en torno a las mismas, como
+el caso de CS:GO Lotto o las ventas de jugadores en FIFA, conocidamente
+propensas a estafas.
 
 **Yo veo una clara falta de ética al momento de desarrollar estas mecánicas en
 los videojuegos**. La industria del _software_ no se hace cargo de las
@@ -212,13 +213,13 @@ vender sus juegos en el retail. Si un videojuego tiene el descriptor de
 contenido “Real Gambling”, que indica que contiene juegos de azar que
 involucren dinero real, automáticamente recibe clasificación AO (_Adults Only_,
 sólo adultos). Tomemos el caso de FIFA 18, con clasificación E (_Everyone_,
-para todo público).  **Si se sancionara que las _loot boxes_ sí corresponden a
-juegos de azar automáticamente la clasificación subiría a AO, y como las tiendas
-minoristas no venden juegos sólo para adultos, FIFA 18 no estaría presente en
-ninguna vitrina**. Es interesante que la misma organización que determina la
-clasificación de los videojuegos represente a las grandes empresas que están
-impulsando estos modelos de negocios, y es un excelente ejemplo de “conflicto
-de interés”.
+para todo público). **Si se sancionara que las _loot boxes_ sí corresponden a
+juegos de azar, automáticamente la clasificación subiría a AO, y como las
+tiendas minoristas no venden juegos sólo para adultos, FIFA 18 no estaría
+presente en ninguna vitrina**. Es interesante que la misma organización que
+determina la clasificación de los videojuegos represente a las grandes empresas
+que están impulsando estos modelos de negocios, y es un excelente ejemplo de
+“conflicto de interés”.
 
 La verdad es que el solo hecho de que sean estas empresas las que plantean que
 las microtransacciones tienen como objetivo financiar la producción me parece
