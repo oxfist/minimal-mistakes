@@ -370,7 +370,7 @@ million. _GameSpot_. Consultado en <https://www.gamespot.com/articles/fifa-13-sa
 And Sold Millions, But Failed Commercially. _GamesSpot_. Consultado en <https://www.gamespot.com/articles/dead-space-2-dev-says-game-cost-60m-to-make-and-so/1100-6454150/>
 16. Schreier, J. (2017, Octubre 11). ESRB Says It Doesn't See 'Loot Boxes' As
 Gambling. _Kotaku_. Consultado en <https://kotaku.com/esrb-says-it-doesnt-see-loot-boxes-as-gambling-1819363091>
-17. Shreier, J. (2017, Octubre 25). Video Games Are Destroying the People Who
+17. Schreier, J. (2017, Octubre 25). Video Games Are Destroying the People Who
 Make Them. _The New York Times_. Consultado en <https://www.nytimes.com/2017/10/25/opinion/work-culture-video-games-crunch.html>
 18. Sterling, J. [Jim Sterling]. (2017, Octubre 9). _The Sixty Dollar Myth (The
 Jimquisition)_ [Archivo de video]. Recuperado desde <https://www.youtube.com/watch?v=pHSso2vufPM>
